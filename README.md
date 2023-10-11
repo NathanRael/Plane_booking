@@ -1,2 +1,2 @@
 # Plane_booking
-Website that allows you to book a plane to go abroad
+A simple website (not finished yet) that allow you to book a plane.
